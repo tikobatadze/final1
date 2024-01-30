@@ -92,6 +92,11 @@
     margin-right: 160px;
 }
 
+.squarepic {
+    width: 400px;
+    height: auto;
+}
+
 
 
 }
@@ -109,6 +114,7 @@
         white-space: nowrap;
         overflow: hidden;
 }
+
 
 }
 
