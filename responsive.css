@@ -1,0 +1,131 @@
+@media screen and (width <=1300px) {
+
+.hamburger {
+    display: block;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+.bar ul {
+    display: none;
+}
+
+.button1 {
+    display: none;
+}
+
+.pic {
+    display: none;
+}
+
+
+.both {
+    /* display: none; */
+}
+
+
+.mainsecond {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.mainfirst {
+    flex-direction: column;
+    height: 100%;
+    text-align: center;
+}
+
+
+.cards {
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.lastdamien {
+    font-size: 70px;
+}
+
+.lastt {
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 30px;
+}
+
+.allinone {
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.second {
+    display: none;
+}
+
+.lastphrase {
+    display: none;
+}
+
+.terms {
+    display: none;
+}
+
+.year {
+    display: none;
+}
+
+.everything {
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.imagee {
+    width: 400px;
+    height: auto;
+    padding: 0px;
+    margin-right: 160px;
+}
+
+
+
+}
+
+
+@media screen and (width <=1400px) {
+    .whole {
+        display: flex;
+        white-space: nowrap;
+        overflow: hidden;
+}
+
+.whole1 {
+        display: flex;
+        white-space: nowrap;
+        overflow: hidden;
+}
+
+}
+
+@media screen and (width<=1000px) {
+    .portfolio {
+        display: none;
+    }
+
+    .explore {
+        display: none;
+    }
+
+
+    
+
+
+
+
+
+}
